@@ -15,8 +15,9 @@ Si bien hay muchas maneras de incoporar la librería en un proyecto, mostraré u
 
 ## Entorno
 
-Vamos a utilizar P5.js como marco de trabajo.
-Se puede integrar a otros marcos en javascript. 
+Vamos a utilizar el editor en línea de P5.js como marco de trabajo. Todo esto se puede subir a un servidor 
+
+Descripción de la estructura de archivos en p5
 
 ## Enlaces de muestra
 
@@ -24,12 +25,11 @@ Se puede integrar a otros marcos en javascript.
 - Reproducción de muestras
 - Síntesis
 - Análisis
-
-## Para otros momentos
-
-Vinculación con entornos gráficos como Three.js 
+- Otros recursos 
 
 ## Caso de estudio: anti
+
+También se puede integrar con otros entornos gráficos 
 
 [anti](https://github.com/EmilioOcelotl/4NT1) 
 
@@ -37,7 +37,6 @@ Vinculación con entornos gráficos como Three.js
 
 - https://tonejs.github.io/
 - https://p5js.org/es/
-
 - https://developer.mozilla.org/es/docs/Web/API/Web_Audio_API
 - https://estuary.mcmaster.ca/
 - https://threejs.org/
