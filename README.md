@@ -32,9 +32,7 @@ Descripción de la estructura de archivos en p5
 
 1. Agregar la librería Tone.js a index.html
 
-``
-<script src="https://cdnjs.cloudflare.com/ajax/libs/tone/13.0.1/Tone.min.js" type="text/javascript"></script>
-``
+`<script src="https://cdnjs.cloudflare.com/ajax/libs/tone/13.0.1/Tone.min.js" type="text/javascript"></script>`
 
 Nota: En algunos casos el audio no se reproducirá a menos de que haya un gesto ( una tecla o un clic ). El editor de p5.js realiza esto entonces no es problema. 
 
