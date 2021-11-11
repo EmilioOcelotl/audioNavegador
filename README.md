@@ -15,7 +15,28 @@ Se pueden cambiar algunos parámetros asociados a eventos que suceden en el nave
   - [seis8s](https://github.com/luisnavarrodelangel/seis8s)
 - [sema-engine](https://github.com/frantic0/sema-engine)
 
-## Entorno
+## Notas personales
+
+- Inclinación reciente hacia el tiempo diferido
+  - Ideas condensadas
+  - ¿Es posible difuminar TR/TD? 
+- Preparación de audio fuera de Tone. Procesamiento con [SuperCollider](https://supercollider.github.io/), [Jack](https://jackaudio.org/) y [Calf Studio Gear] 
+  - Montaje, esperar a tiempos mejores
+- Secuenciadores dentro de secuenciadores dentro de secuenciadores
+  - Recorridos dinámicos
+  - Evolución de ideas y escenas 
+- Secuenciadores que no secuencian audio
+  - Me gusta la idea de evento 
+- Escala de tiempo > idagación en otros conceptos
+- Activación de ecosistemas 
+
+## Caso de estudio: anti
+
+También se puede integrar con otros entornos gráficos 
+
+[anti](https://github.com/EmilioOcelotl/4NT1) 
+
+## P5 como entorno
 
 Vamos a utilizar el editor en línea de P5.js como marco de trabajo. Todo esto se puede subir a un servidor 
 
@@ -44,12 +65,6 @@ Nota: En algunos casos el audio no se reproducirá a menos de que haya un gesto 
 - Análisis
 - Otros recursos 
 
-## Caso de estudio: anti
-
-También se puede integrar con otros entornos gráficos 
-
-[anti](https://github.com/EmilioOcelotl/4NT1) 
-
 ## Recursos
 
 - https://tonejs.github.io/
@@ -58,3 +73,5 @@ También se puede integrar con otros entornos gráficos
 - https://estuary.mcmaster.ca/
 - https://threejs.org/
 - https://github.com/frantic0/sema-engine
+- https://supercollider.github.io/
+- https://jackaudio.org/
