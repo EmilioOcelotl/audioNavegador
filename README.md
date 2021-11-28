@@ -1,6 +1,28 @@
-# audioNavegador
+# Audio, navegador y web
 
-## Introducción
+## Presentación
+
+https://ocelotl.cc/
+
+## Antecedentes
+
+- Proyecto de investigación actual que tiene 3 momentos
+- Práctica performática ( Live Coding )
+- Trabajo con PiranhaLab
+
+## Notas personales y motivaciones
+
+- Inclinación reciente hacia el tiempo diferido
+  - La condensación de premisas
+  - Distancias y cercanías entre TR/DF
+  - Retroalimentación, suma, mezcla aditiva en el uso de materiales en el modo fijado e interpretado
+- La cuestión de la presencia y la configuración de equipos 
+- El giro que marcó la pandemia
+- Imagen y sonido 
+- Secuencia ( en un sentido sonoro ) y la secuenciación de eventos no-sonoros 
+- Desplazamiento de SuperCollider para probar otras sonoridades y formatos de presentación
+
+## Tone.js
 
 Tone.js es un marco para la generación de audio en el navegador. La librería tiene las siguientes premisas: familiaridad con músicos y programadores de audio
 
@@ -8,65 +30,36 @@ Si bien hay muchas maneras de incoporar la librería en un proyecto, mostraré u
 
 Se pueden cambiar algunos parámetros asociados a eventos que suceden en el navegador. Para live coding, otras plataformas funcionan mejor. 
 
-## Antecedentes y proyectos cercanos
+Tone.js toma como referencia las ideas de Miller Puckette descritas en The Theory and Technique of Electronic Music.
+
+Una de las ideas que más se destacan en este rubro es la de un objeto que se puede conectar con otros objetos para generar encadenamientos.
+
+En programas como Max o PD, esta conexión se visualiza por medio de la programación gráfica.
+
+Algunas ideas que están presenten en Tone:
+
+- Amplitud y frecuencia > osciladores 
+- Reproducción de muestras > Velocidad y amplitud 
+- Delimitación, estructura y control 
+- Filtros y efectos comunmente utilizados para sonido
+- Análisis 
+
+## Casos
+
+- PiranhaLab
+- Concierto del coloquio
+- THREE.studies y anti
+
+## Proyectos cercanos
 
 - [Web Audio API](https://developer.mozilla.org/es/docs/Web/API/Web_Audio_API)
 - [Estuary](https://estuary.mcmaster.ca/) ( y sus habitantes )
   - [seis8s](https://github.com/luisnavarrodelangel/seis8s)
 - [sema-engine](https://github.com/frantic0/sema-engine)
 
-## Notas personales
-
-- Inclinación reciente hacia el tiempo diferido
-  - Ideas condensadas
-  - ¿Es posible difuminar TR/TD? 
-- Preparación de audio fuera de Tone. Procesamiento con [SuperCollider](https://supercollider.github.io/), [Jack](https://jackaudio.org/) y [Calf Studio Gear] 
-  - Montaje, esperar a tiempos mejores
-- Secuenciadores dentro de secuenciadores dentro de secuenciadores
-  - Recorridos dinámicos
-  - Evolución de ideas y escenas 
-- Secuenciadores que no secuencian audio
-  - Me gusta la idea de evento 
-- Escala de tiempo > idagación en otros conceptos
-- Activación de ecosistemas 
-
-## Caso de estudio: anti
-
-También se puede integrar con otros entornos gráficos 
-
-[anti](https://github.com/EmilioOcelotl/4NT1) 
-
-## P5 como entorno
-
-Vamos a utilizar el editor en línea de P5.js como marco de trabajo. Todo esto se puede subir a un servidor 
-
-Descripción de la estructura de archivos en p5
-
-### Pasos
-
-0. Estructura de un proyecto en p5.js
-
-- index.html
-- sketch.js > aquí vamos a trabajar, el editor se centra en la modificación de este archivo
-- style.css
-- carpetas > donde colocaremos los archivos que usaremos 
-
-1. Agregar la librería Tone.js a index.html
-
-`<script src="https://cdnjs.cloudflare.com/ajax/libs/tone/13.0.1/Tone.min.js" type="text/javascript"></script>`
-
-Nota: En algunos casos el audio no se reproducirá a menos de que haya un gesto ( una tecla o un clic ). El editor de p5.js realiza esto entonces no es problema. 
-
-## Enlaces de muestra
-
-- [Reproducción de muestras](https://editor.p5js.org/emilioocelotl/sketches/j2YOB826v)
-- [Secuenciadores]()
-- Síntesis
-- Análisis
-- Otros recursos 
-
 ## Recursos
 
+- http://msp.ucsd.edu/techniques/latest/book.pdf
 - https://tonejs.github.io/
 - https://p5js.org/es/
 - https://developer.mozilla.org/es/docs/Web/API/Web_Audio_API
