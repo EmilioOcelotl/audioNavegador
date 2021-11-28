@@ -7,8 +7,11 @@ https://ocelotl.cc/
 ## Antecedentes
 
 - Proyecto de investigación actual que tiene 3 momentos
-- Práctica performática ( Live Coding )
-- Trabajo con PiranhaLab
+  - [Objeto, Paisaje y Efecto](https://tesiunam.dgb.unam.mx/F/6F3GRLNG4AEE4UBSHCCXYJN7UJN9MN63VIVRG4DAGF5YYA3AE5-31106?func=full-set-set&set_number=046429&set_entry=000010&format=999)
+  - [Cuidado con la brecha](https://tesiunam.dgb.unam.mx/F/6F3GRLNG4AEE4UBSHCCXYJN7UJN9MN63VIVRG4DAGF5YYA3AE5-31597?func=full-set-set&set_number=046463&set_entry=000003&format=999)
+  - Tres Estudios Abiertos ( próximamente )
+- Práctica performática > [Live Coding](https://youtu.be/e47uOaMCDKg) 
+- Actividades con PiranhaLab > [Ciclo EDGES](https://youtu.be/sLmT0AkvmNo) 
 
 ## Notas personales y motivaciones
 
@@ -46,9 +49,9 @@ Algunas ideas que están presenten en Tone:
 
 ## Casos
 
-- PiranhaLab
-- Concierto del coloquio
+- [Concierto](https://youtu.be/HwBTRQKr9Ps) del coloquio
 - THREE.studies y anti
+- visuales ( en construcción ) 
 
 ## Proyectos cercanos
 
