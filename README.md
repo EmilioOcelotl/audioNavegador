@@ -29,6 +29,8 @@ https://ocelotl.cc/
 
 Tone.js es un marco para la generación de audio en el navegador. La librería tiene las siguientes premisas: familiaridad con músicos y programadores de audio
 
+Se adscribe a Javascript (JS) como lenguaje de programación y se enfoca a producir audio en el navegador.
+
 Si bien hay muchas maneras de incoporar la librería en un proyecto, mostraré un ejemplo en el editor de P5.js para llegar rápido a la acción. Esto permitirá la integración con imagen. 
 
 Se pueden cambiar algunos parámetros asociados a eventos que suceden en el navegador. Para live coding, otras plataformas funcionan mejor. 
@@ -41,11 +43,13 @@ En programas como Max o PD, esta conexión se visualiza por medio de la programa
 
 Algunas ideas que están presenten en Tone:
 
-- Amplitud y frecuencia > osciladores 
+- Amplitud y frecuencia > osciladores // pendiente
 - Reproducción de muestras > Velocidad y amplitud 
 - Delimitación, estructura y control 
 - Filtros y efectos comunmente utilizados para sonido
 - Análisis 
+
+[Ejemplo](https://editor.p5js.org/emilioocelotl/sketches/SMtzFoR9b) que explica casi todos los puntos anteriores. 
 
 ## Casos
 
@@ -62,6 +66,8 @@ Algunas ideas que están presenten en Tone:
 
 ## Recursos
 
+- https://www.sonobus.net/
+- https://jacktrip.org/
 - http://msp.ucsd.edu/techniques/latest/book.pdf
 - https://tonejs.github.io/
 - https://p5js.org/es/
